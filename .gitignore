@@ -1,0 +1,65 @@
+# =========================
+# Secrets / credentials
+# =========================
+.env
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+
+# =========================
+# DuckDB / databases
+# =========================
+*.duckdb
+*.wal
+
+# =========================
+# Raw harvested data
+# =========================
+*.jsonl
+data/openalex_harvest_log.csv
+
+# =========================
+# Temporary / logs
+# =========================
+logs/
+*.log
+tmp/
+temp/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# IDE/editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Generated exports
+# =========================
+data/exports/
+data/snapshots/
+
+# =========================
+# Keep curated data tracked
+# =========================
+!data/curated/
+!data/curated/OpenAlex_topic_selection.csv
