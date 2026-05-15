@@ -63,3 +63,10 @@ data/snapshots/
 # =========================
 !data/curated/
 !data/curated/OpenAlex_topic_selection.csv
+
+# Reference datasets
+data/reference/
+
+# Exported review files
+data/exports/
+
