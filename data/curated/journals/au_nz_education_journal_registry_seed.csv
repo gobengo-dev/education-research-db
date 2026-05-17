@@ -1,0 +1,41 @@
+registry_id,title,issn_print,issn_online,country,region,journal_type,priority_band,active,publisher,notes
+J000001,The Australian Educational Researcher,0311-6999,2210-5328,AU,AU,education,core,true,Springer,AARE-associated flagship journal
+J000002,Australian Journal of Education,0004-9441,2050-5884,AU,AU,education,core,true,SAGE/ACER,Core Australian education journal
+J000003,Australian Journal of Teacher Education,0313-5373,1835-517X,AU,AU,teacher_education,core,true,Edith Cowan University,Known source-name corruption previously observed
+J000004,New Zealand Journal of Educational Studies,0028-8276,2199-4714,NZ,NZ,education,core,true,Springer,NZARE-associated journal
+J000005,Teaching and Teacher Education,0742-051X,1879-2480,International,International,teacher_education,adjacent,true,Elsevier,International but important for AU/NZ teacher education
+J000006,Higher Education Research & Development,0729-4360,1469-8366,AU,AU,higher_education,core,true,Taylor & Francis,HERDSA-associated journal
+J000007,Australasian Journal of Educational Technology,1449-5554,1449-5554,AU,AU,educational_technology,core,true,ASCILITE,Core edtech journal
+J000008,Australasian Journal of Early Childhood,1836-9391,1839-5961,AU,AU,early_childhood,core,true,SAGE/ECA,Core early childhood journal
+J000009,Australian Educational Computing,0816-9020,,AU,AU,educational_technology,core,true,Australian Council for Computers in Education,May have uneven indexing
+J000010,Australian Journal of Adult Learning,1443-1394,,AU,AU,adult_learning,core,true,Adult Learning Australia,Adult and lifelong learning
+J000011,Australian Journal of Environmental Education,0814-0626,2049-775X,AU,AU,environmental_education,core,true,Cambridge University Press,Environmental/sustainability education
+J000012,Australian Journal of Indigenous Education,1326-0111,2049-7784,AU,AU,indigenous_education,core,true,Cambridge University Press,Important Indigenous education source
+J000013,Australian Journal of Language and Literacy,1038-1562,1839-4728,AU,AU,literacy,core,true,Springer,Literacy/language education
+J000014,Australian Journal of Learning Difficulties,1940-4158,1940-4166,AU,AU,inclusive_education,core,true,Taylor & Francis,Learning difficulties/inclusion
+J000015,Australian Journal of Music Education,0004-9484,,AU,AU,arts_education,core,true,Australian Society for Music Education,May have incomplete DOI coverage
+J000016,Australian Mathematics Education Journal,2652-7808,2652-7816,AU,AU,mathematics_education,core,true,Mathematical Association of Victoria/others,Check exact publisher/history
+J000017,Mathematics Education Research Journal,1033-2170,2211-050X,AU,AU,mathematics_education,core,true,Springer,MERGA-associated
+J000018,English in Australia,0155-2147,,AU,AU,literacy,core,true,Australian Association for the Teaching of English,Practitioner/scholarly mix
+J000019,Geographical Education,0085-0969,,AU,AU,curriculum,core,true,Australian Geography Teachers Association,Specialist curriculum journal
+J000020,History Education Research Journal,2631-9713,2631-9713,International,International,history_education,adjacent,true,UCL Press,Relevant to history education; not AU/NZ-specific
+J000021,International Journal of Pedagogies and Learning,1833-4105,1833-4105,AU,AU,education,core,false,Taylor & Francis,Check active status and continuation
+J000022,Issues in Educational Research,0313-7155,1837-6290,AU,AU,education,core,true,IIER,Australasian education journal
+J000023,Journal of Educational Leadership Policy and Practice,1178-8690,1178-8690,NZ,NZ,educational_leadership,core,true,NZ educational leadership community,Formerly NZEALS journal; check title history
+J000024,Journal of Open Flexible and Distance Learning,1179-7673,1179-7673,NZ,NZ,distance_education,core,true,DEANZ/FLANZ,Core NZ/Australasian distance learning journal
+J000025,Journal of Peer Learning,2200-2359,2200-2359,AU,AU,higher_education,core,true,University of Wollongong,Peer learning/higher education
+J000026,Journal of Student Wellbeing,1835-7806,1835-7806,AU,AU,student_wellbeing,core,false,Various/archived,Check current status
+J000027,Journal of University Teaching and Learning Practice,1449-9789,1449-9789,AU,AU,higher_education,core,true,University of Wollongong,Higher education teaching and learning
+J000028,New Zealand Journal of Teachers' Work,1176-6662,1176-6662,NZ,NZ,teacher_education,core,true,University-based/open journal,Important NZ teacher work journal
+J000029,Teachers and Curriculum,1174-2208,2382-0349,NZ,NZ,curriculum,core,true,University of Waikato,Core NZ curriculum/teacher education
+J000030,Waikato Journal of Education,2382-0373,2382-0373,NZ,NZ,education,core,true,University of Waikato,Core NZ education journal
+J000031,Aotearoa New Zealand Social Work,2463-4131,2463-4131,NZ,NZ,social_work_education,adjacent,true,ANZASW,Relevant for social work education/practice
+J000032,Health Education Journal,0017-8969,1748-8176,International,International,health_education,adjacent,true,SAGE,Important adjacent health education venue
+J000033,Focus on Health Professional Education,2204-7662,2204-7662,AU,AU,health_professions_education,adjacent,true,ANZAHPE,Core AU/NZ health professional education
+J000034,Student Success,2205-0795,2205-0795,AU,AU,higher_education,core,true,STARS/Queensland University of Technology,Higher education student success
+J000035,International Journal of Work-Integrated Learning,2538-1032,2538-1032,NZ,NZ,higher_education,core,true,University of Waikato/WACE-related,Formerly Asia-Pacific Journal of Cooperative Education
+J000036,Asia-Pacific Journal of Teacher Education,1359-866X,1469-2945,AU,AU,teacher_education,core,true,Taylor & Francis,Major teacher education journal
+J000037,Discourse: Studies in the Cultural Politics of Education,0159-6306,1469-3739,AU,AU,education_policy_theory,core,true,Taylor & Francis,Strong Australian roots; international scope
+J000038,Curriculum Perspectives,0159-7868,2367-1793,AU,AU,curriculum,core,true,Springer,Australian Curriculum Studies Association
+J000039,Educational Philosophy and Theory,0013-1857,1469-5812,AU/NZ,International,education_theory,core,true,Taylor & Francis,Australasian roots; international scope
+J000040,Critical Studies in Education,1750-8487,1750-8495,AU,AU,education_policy_theory,core,true,Taylor & Francis,Formerly Melbourne Studies in Education
