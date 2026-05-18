@@ -3,7 +3,7 @@ import duckdb
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DUCKDB_FILE = PROJECT_ROOT / "data" / "research_database.duckdb"
-REGISTRY_CSV = PROJECT_ROOT / "data" / "curated" / "journals" / "au_nz_education_journal_registry_seed.csv"
+REGISTRY_CSV = PROJECT_ROOT / "data" / "curated" / "journals" / "au_nz_education_journal_registry_v1_deepresearch.csv"
 
 
 def q(sql: str) -> str:
